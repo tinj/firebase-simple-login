@@ -1,0 +1,15 @@
+{
+  "name": "firebase-simple-login",
+  "version": "0.0.1",
+  "description": "npm package to use firebase-simple-login with browserify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinj/firebase-simple-login.git"
+  },
+  "main": "firebase-simple-login.js",
+  "bugs": {
+    "url": "https://github.com/tinj/firebase-simple-login/issues"
+  },
+  "homepage": "https://github.com/tinj/firebase-simple-login",
+  "license": "MIT"
+}
